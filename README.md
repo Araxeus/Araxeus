@@ -1,4 +1,2 @@
-![Araxeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Araxeus&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araxeus&exclude_repo=ScreenshotZ&theme=radical)](#)
-
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Araxeus&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Araxeus's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araxeus&exclude_repo=ScreenshotZ&theme=radical&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
